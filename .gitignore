@@ -1,0 +1,24 @@
+logs/
+target/
+logs
+target
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+/.g8/
+.g8/
+.DS_Store
+.attach_pid*
+.bsp
+HELP.md
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+/.idea
